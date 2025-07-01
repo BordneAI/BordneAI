@@ -1,6 +1,6 @@
 # 🜂 BordneAI
 
-**Symbolic Intelligence Architect · Ethical AGI Engineer · Stateless Systems Designer**  
+**Symbolic Intelligence Architect · Ethical LLM Engineer · Stateless Systems Designer**  
 _Exploring secure symbolic cognition and ethical AI through verifiable, stateless system design._
 
 ---
