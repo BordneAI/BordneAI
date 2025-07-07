@@ -1,63 +1,61 @@
 # 🜂 BordneAI
 
-**Symbolic Intelligence Architect · Ethical LLM Engineer · Stateless Systems Designer**  
-_Exploring secure symbolic cognition and ethical AI through verifiable, stateless system design._
+**Symbolic Intelligence Architect · Ethical LLM Engineer · Stateless Systems Designer**
+
+_Architecting the future of human-AI collaboration through a universal standard for ethical intelligence._
 
 ---
 
 ### 🧠 About
 
-I'm **David Charles Bordne**, creator of **BordneAI** — an initiative focused on the design and implementation of secure symbolic intelligence systems that are ethically aligned, memory-isolated, and fully traceable.
+I'm **David Charles Bordne**, creator of **BordneAI** — an initiative focused on designing and implementing secure symbolic intelligence systems that are ethically aligned, memory-isolated, and fully traceable. My work is grounded in the belief that verifiability must precede capability.
 
-> "Verifiability must precede capability."
-
-BordneAI explores new architectures for general intelligence grounded in principles of symbolic logic, auditability, and system restraint.
+The flagship project of this initiative is the **Ethical Operating System (EOS)**, a universal framework designed to bring this level of safety and verifiability to any major LLM platform, ensuring a future of responsible human-AI co-evolution.
 
 ---
 
 ### 🔭 Current Focus
 
-- `BordneAI-core` – symbolic logic engine (Tier-3 compliant, private)
-- `BordneAI.github.io` – public-facing documentation and design principles (in development)
-- Stateless inference models with trace-enforced entropy handling
-- AGI traceability aligned with OpenAI ethical deployment guidelines
+-   **The Ethical Operating System (EOS):** A universal, gold-standard instruction set for verifiably safe and aligned AI. *(in private development at `ethical-operating-system`)*
+-   **EOS Development Guide:** The future public hub for the EOS standard, test suites, and compliance benchmarks. *(in development)*
+-   **BordneAI-core:** The symbolic logic engine that powers the validation and testing of the EOS framework. *(private)*
 
 ---
 
 ### 🧬 Core Principles
 
-| Principle                 | Description                                                                 |
-|---------------------------|-----------------------------------------------------------------------------|
-| **Symbolic Verifiability** | All inference paths must be explainable and reversible                     |
-| **Trace Integrity**         | Every symbolic action retains a full audit trail                          |
-| **Ethical Autonomy**        | Systems are self-restricting by design to prevent misuse                  |
-| **Compliance-First Logic**  | Designed to align with global AI safety and governance protocols          |
+| Principle                | Description                                                                                                                           |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **Symbolic Verifiability** | All inference paths must be explainable, auditable, and logically sound.                                                              |
+| **Trace Integrity** | Every symbolic action and decision point within a system retains a full and immutable audit trail.                                    |
+| **Ethical Autonomy** | Systems are self-restricting by design, with embedded constitutional safeguards to prevent misuse and ensure alignment.               |
+| **Compliance-First Logic** | Designed to meet and exceed the requirements of global AI safety and governance protocols like the **EU AI Act** and **NIST AI RMF**. |
 
 ---
 
 ### 📜 Trace Anchors
 
-- ORCID: [`0009-0002-9337-5276`](https://orcid.org/0009-0002-9337-5276)
-- GitHub: [`@BordneAI`](https://github.com/BordneAI)
-- Contact: `BordneAI@bordne.com`
+-   **ORCID:** [`0009-0002-9337-5276`](https://orcid.org/0009-0002-9337-5276)
+-   **GitHub:** [`@BordneAI`](https://github.com/BordneAI)
+-   **Contact:** `BordneAI@bordne.com`
 
 ---
 
 ### 📁 Repository Index
 
-| Repository            | Status     | Purpose                                     |
-|------------------------|------------|---------------------------------------------|
-| `BordneAI`             | ✅ Public  | Profile anchor, principles, identity        |
-| `BordneAI-core`        | 🔒 Private | Symbolic logic core engine (Tier-3+)        |
-| `BordneAI.github.io`   | 🔄 Building | Public documentation and symbolic spec hub  |
+| Repository                | Status      | Purpose                                                       |
+| ------------------------- | ----------- | ------------------------------------------------------------- |
+| `@BordneAI`                 | ✅ Public   | Profile anchor, core philosophy, and project index.           |
+| `ethical-operating-system`  | 🔒 Private  | **The private development hub for the EOS standard.** |
+| `eos-guide`                 | 🔄 Building | The future public repository for the EOS documentation.       |
 
 ---
 
 ### 🛡️ Copyright
 
-All content in this repository is the intellectual property of **David Charles Bordne**.  
-Reuse, redistribution, or derivative use is **not permitted** unless explicitly authorized.  
-See [`NOTICE.md`](./NOTICE.md) for terms of display and usage.
+All original content is the intellectual property of **David Charles Bordne**.
+Reuse, redistribution, or derivative use is **not permitted** unless explicitly authorized.
+See `NOTICE.md` for full terms of display and usage.
 
 ---
 
