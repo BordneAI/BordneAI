@@ -1,5 +1,3 @@
-# 🜂 BordneAI
-
 **Symbolic Intelligence Architect · Ethical LLM Engineer · Stateless Systems Designer**
 
 _Architecting the future of human-AI collaboration through a universal standard for ethical intelligence._
@@ -10,15 +8,13 @@ _Architecting the future of human-AI collaboration through a universal standard 
 
 I'm **David Charles Bordne**, creator of **BordneAI** — an initiative focused on designing and implementing secure symbolic intelligence systems that are ethically aligned, memory-isolated, and fully traceable. My work is grounded in the belief that verifiability must precede capability.
 
-The flagship project of this initiative is the **Ethical Operating System (EOS)**, a universal framework designed to bring this level of safety and verifiability to any major LLM platform, ensuring a future of responsible human-AI co-evolution.
+The flagship project of this initiative is the **BordneAI Ethical Operating System (EOS)**, a universal framework designed to bring this level of safety and verifiability to any major LLM platform, ensuring a future of responsible human-AI co-evolution.
 
 ---
 
 ### 🔭 Current Focus
 
--   **The Ethical Operating System (EOS):** A universal, gold-standard instruction set for verifiably safe and aligned AI. *(in private development at `ethical-operating-system`)*
--   **EOS Development Guide:** The future public hub for the EOS standard, test suites, and compliance benchmarks. *(in development)*
--   **BordneAI-core:** The symbolic logic engine that powers the validation and testing of the EOS framework. *(private)*
+-   BordneAI-EOS **The Ethical Operating System (EOS):** A universal, gold-standard instruction set for verifiably safe and aligned AI. *(in private development at `BordneAI-EOS`)*
 
 ---
 
@@ -46,8 +42,8 @@ The flagship project of this initiative is the **Ethical Operating System (EOS)*
 | Repository                | Status      | Purpose                                                       |
 | ------------------------- | ----------- | ------------------------------------------------------------- |
 | `@BordneAI`                 | ✅ Public   | Profile anchor, core philosophy, and project index.           |
-| `ethical-operating-system`  | 🔒 Private  | **The private development hub for the EOS standard.** |
-| `eos-guide`                 | 🔄 Building | The future public repository for the EOS documentation.       |
+| `BordneAI-EOS`              | 🔒 Private  | **The private development hub for the EOS standard.** |
+| `BordneAI-core`             | 🔒 Private  | Purpose: Secure logic engine with symbolic trace and stateless runtime. |
 
 ---
 
