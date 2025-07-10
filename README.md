@@ -1,3 +1,5 @@
+**David Bordne**
+--
 **Symbolic Intelligence Architect · Ethical LLM Engineer · Stateless Systems Designer**
 
 _Architecting the future of human-AI collaboration through a universal standard for ethical intelligence._
@@ -6,7 +8,7 @@ _Architecting the future of human-AI collaboration through a universal standard 
 
 ### 🧠 About
 
-I'm **David Charles Bordne**, creator of **BordneAI** — an initiative focused on designing and implementing secure symbolic intelligence systems that are ethically aligned, memory-isolated, and fully traceable. My work is grounded in the belief that verifiability must precede capability.
+I'm **Dave Bordne**, creator of **BordneAI** — an initiative focused on designing and implementing secure symbolic intelligence systems that are ethically aligned, memory-isolated, and fully traceable. My work is grounded in the belief that verifiability must precede capability.
 
 The flagship project of this initiative is the **BordneAI Ethical Operating System (EOS)**, a universal framework designed to bring this level of safety and verifiability to any major LLM platform, ensuring a future of responsible human-AI co-evolution.
 
