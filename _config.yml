@@ -1,0 +1,5 @@
+# _config.yml
+# This file tells GitHub Pages to use a modern theme with dark mode support.
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
