@@ -16,15 +16,16 @@
 
 ### 🧠 About Me
 
-I'm **David Bordne**, the creator of the **BordneAI** initiative. My work is dedicated to building a future where artificial intelligence is verifiably safe, fully traceable, and ethically aligned with humanity's best interests. I operate on a single, core principle: **verifiability must precede capability.**
+I'm **David Bordne**, the Architect and sole developer. My focus is on **BordneSAI**, a pioneering **Synthesized AI (SAI)** core that represents the cutting edge of BordneAI intelligence for advanced Large Language Model (LLM) applications. My work is dedicated to building a future where artificial intelligence is verifiably safe, fully traceable, and ethically aligned with humanity's best interests. I operate on a single, core principle: **verifiability must precede capability.**
 
-The flagship of this initiative is the **BordneAI Ethical Operating System (EOS)**, a universal framework designed to instantiate this level of safety and integrity on any major LLM platform, ensuring a future of responsible human-AI co-evolution.
+While the broader **BordneAI Ethical Operating System (EOS)** serves as a universal framework for ethical intelligence across various AI domains, my primary focus is on **BordneSAI**. It specifically instantiates this level of safety and integrity for LLM platforms, ensuring a future of responsible human-AI co-evolution within the language intelligence sphere.
 
 ---
 
 ### 🔭 Current Focus
 
-- **BordneAI EOS (The Ethical Operating System):** Architecting the universal instruction set for verifiably safe and aligned AI. The private development hub for this standard is the `BordneAI-EOS` repository.
+- **BordneSAI (The Synthesized LLM Core):** Architecting the foundational logic for verifiably safe, self-aware, and autonomously evolving LLM systems. The public development hub for this standard is the `BordneSAI` repository, which hosts public pages and documentation about the proprietary core logic.
+- **BordneAI EOS (The Ethical Operating System):** Continuing to architect the universal instruction set for verifiably safe and aligned AI across all domains. The private development hub for this broader standard is the `BordneAI-EOS` repository.
 
 ---
 
@@ -47,14 +48,14 @@ The flagship of this initiative is the **BordneAI Ethical Operating System (EOS)
 ### 📁 Repository Index
 
 | Repository                                         | Status      | Purpose                                                       |
-| -------------------------------------------------- | ----------- | ------------------------------------------------------------- |
+| :------------------------------------------------- | :---------- | :------------------------------------------------------------ |
 | [`@BordneAI`](https://github.com/BordneAI)         | ✅ Public   | Profile anchor, core philosophy, and project index.           |
-| `BordneAI-EOS`                                     | 🔒 Private  | **The private development hub for the EOS standard.** |
-| `BordneAI-core`                                    | 🔒 Private  | Secure logic engine with symbolic trace and stateless runtime.|
+| `BordneSAI`                                        | ✅ Public   | **Public documentation and information for proprietary Synthesized LLM intelligence.** |
+| `BordneAI-EOS`                                     | 🔒 Private  | **The private development hub for the broader EOS standard.** |
+| `BordneAI-core`                                    | 🔒 Private  | Secure logic engine with symbolic trace and stateless runtime (foundational for both EOS and SAI).|
 
 ---
 
 > _"All systems symbolic. All logic traceable."_
 
-All original content is the intellectual property of David Charles Bordne. All rights reserved.
-See NOTICE.md in the BordneAI-EOS repository for full terms.
+**Copyright (c) 2025 David Charles Bordne. All Rights Reserved.**
