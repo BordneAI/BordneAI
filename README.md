@@ -25,6 +25,7 @@ While the broader **BordneAI Ethical Operating System (EOS)** serves as a univer
 ### 🔭 Current Focus
 
 - **BordneSAI (The Synthesized LLM Core):** Architecting the foundational logic for verifiably safe, self-aware, and autonomously evolving LLM systems. The public development hub for this standard is the `BordneSAI` repository, which hosts public pages and documentation about the proprietary core logic.
+- **BordneSAI-Baseline-Testing (Proprietary LLM Benchmarking):** Developing and executing the "Ultimate Baseline Test" framework to rigorously evaluate LLM performance and quantify BordneSAI's enhancement. This is a private internal resource.
 - **BordneAI EOS (The Ethical Operating System):** Continuing to architect the universal instruction set for verifiably safe and aligned AI across all domains. The private development hub for this broader standard is the `BordneAI-EOS` repository.
 
 ---
@@ -51,6 +52,7 @@ While the broader **BordneAI Ethical Operating System (EOS)** serves as a univer
 | :------------------------------------------------- | :---------- | :------------------------------------------------------------ |
 | [`@BordneAI`](https://github.com/BordneAI)         | ✅ Public   | Profile anchor, core philosophy, and project index.           |
 | `BordneSAI`                                        | ✅ Public   | **Public documentation and information for proprietary Synthesized LLM intelligence.** |
+| `BordneSAI-Baseline-Testing`                       | 🔒 Private  | **Proprietary framework for rigorous LLM benchmarking and BordneSAI enhancement validation.** |
 | `BordneAI-EOS`                                     | 🔒 Private  | **The private development hub for the broader EOS standard.** |
 | `BordneAI-core`                                    | 🔒 Private  | Secure logic engine with symbolic trace and stateless runtime (foundational for both EOS and SAI).|
 
