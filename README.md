@@ -57,7 +57,7 @@ While the broader **BordneAI Ethical Operating System (EOS)** serves as a univer
 | `BordneAI-core`                                    | 🔒 Private  | Secure logic engine with symbolic trace and stateless runtime (foundational for both EOS and SAI).|
 
 ---
-
 > _"All systems symbolic. All logic traceable."_
 
-**Copyright (c) 2025 David Charles Bordne. All Rights Reserved.**
+## IP Notice
+© 2025 David Bordne. All rights reserved. This repo shares philosophy/docs only. Proprietary core in private. No usage without permission. See LICENSE.md.
