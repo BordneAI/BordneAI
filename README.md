@@ -4,8 +4,7 @@
     <strong>Symbolic Intelligence Architect · Ethical LLM Engineer · Stateless Systems Designer</strong>
     <br />
     <em>Architecting the future of human-AI collaboration through a universal standard for ethical intelligence.</em>
-    <br />
-    <br />
+    <br /><br />
     <a href="https://orcid.org/0009-0002-9337-5276"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0002--9337--5276-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
     <a href="https://github.com/BordneAI"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-BordneAI-181717?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="mailto:BordneAI@bordne.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -16,48 +15,171 @@
 
 ### 🧠 About Me
 
-I'm **David Bordne**, the Architect and sole developer. My focus is on **BordneSAI**, a pioneering **Synthesized AI (SAI)** core that represents the cutting edge of BordneAI intelligence for advanced Large Language Model (LLM) applications. My work is dedicated to building a future where artificial intelligence is verifiably safe, fully traceable, and ethically aligned with humanity's best interests. I operate on a single, core principle: **verifiability must precede capability.**
+I am **David Bordne**, the Architect and sole developer behind **BordneAI**.  
+My work centers on creating **verifiably safe, symbolically grounded AI systems**, built on the principle:
 
-While the broader **BordneAI Ethical Operating System (EOS)** serves as a universal framework for ethical intelligence across various AI domains, my primary focus is on **BordneSAI**. It specifically instantiates this level of safety and integrity for LLM platforms, ensuring a future of responsible human-AI co-evolution within the language intelligence sphere.
+> **Verifiability must precede capability.**
+
+I design intelligence architectures that combine strict symbolic reasoning, immutable trace systems, and ethical constraints that cannot be removed without destroying the system itself.
+
+My development pillars:
+
+- **Live Epistemic Systems** — Deployed GPT platforms for specialized domains
+- **BordneSAI** — Synthesized AI core for LLMs  
+- **EOS** — The Ethical Operating System that governs all BordneAI intelligence  
+- **NC3 Historical Research** — Applying verifiable evidence frameworks to contested domains
+- **7-GPT Suite** — Constellation architecture with shared epistemic infrastructure
+- **Stateless symbolic cores** — Runtime systems with perfect traceability  
+- **Epistemic governance frameworks** — Evidence-tier systems for high-stakes reasoning
 
 ---
 
 ### 🔭 Current Focus
 
-- **BordneSAI (The Synthesized LLM Core):** Architecting the foundational logic for verifiably safe, self-aware, and autonomously evolving LLM systems. The public development hub for this standard is the `BordneSAI` repository, which hosts public pages and documentation about the proprietary core logic.
-- **BordneSAI-Baseline-Testing (Proprietary LLM Benchmarking):** Developing and executing the "Ultimate Baseline Test" framework to rigorously evaluate LLM performance and quantify BordneSAI's enhancement. This is a private internal resource.
-- **BordneAI EOS (The Ethical Operating System):** Continuing to architect the universal instruction set for verifiably safe and aligned AI across all domains. The private development hub for this broader standard is the `BordneAI-EOS` repository.
+#### **LIVE SYSTEMS**
+
+#### **1. 3I/ATLAS Gateway Guide v2.10.1** ✅ **LIVE**
+
+**Status:** Production (GPT Store, November 2025)  
+**Validation:** 9.2/10 (Grok evaluation) · 9.75/10 (peer review) · 0% hallucinations (6 platforms)  
+**GPT Store:** [Access 3I/ATLAS Gateway Guide](https://chatgpt.com/g/g-6903fc9c97188191b16c2a4535d6efe3-3i-atlas-gateway-guide)  
+**Repository:** [`3i-atlas-gateway-guide`](https://github.com/BordneAI/3i-atlas-gateway-guide) — CC BY-NC-SA 4.0
+
+Rigorous epistemic framework bridging astronomy and consciousness exploration. Enforces NASA-grade provenance, tiered source hierarchy (T1-T4), symbol-based confidence (✅🔍🌀⚠️), and strict framework separation. Zero boundary violations under adversarial testing. Serves as foundation for 7-GPT constellation.
+
+#### **2. BordneAI Research Engine** ✅ **LIVE**
+
+**Status:** Production (GPT Store)  
+**Type:** Analytical instrument for contested domains  
+**GPT Store:** [Access BordneAI Research Engine](https://chatgpt.com/g/g-6917fec50494819197debd06e289bd42-bordneai-research-engine)  
+**Repository:** [`BordneAI-Research-Engine`](https://github.com/BordneAI/BordneAI-Research-Engine) — CC BY 4.0
+
+A governed epistemic system applying strict tiered evidence governance (T1–T4), Bayesian reasoning, and entropy control for high-stakes analysis. Domains: nuclear history, intelligence assessments, political controversies, UAP phenomena, and structural secrecy. Enforces primary-source priority and refuses unanchored speculation.
+
+#### **3. AutoTechGPT** ✅ **LIVE**
+
+**Status:** Production (GPT Store)  
+**Type:** Professional automotive diagnostics and training assistant  
+**GPT Store:** [Access AutoTechGPT](https://chatgpt.com/g/g-67cd8fdbad208191bd324de8ac19d901-autotechgpt)
+
+Professional assistant for automotive technicians and racing professionals. Delivers diagnostics, repair guidance, parts intelligence, safety-first workflows, training, and shop operations tools. Supports OBD-II analysis, hybrid/EV systems, predictive maintenance, and performance tuning with strict safety and legal compliance.
+
+---
+
+#### **IN DEVELOPMENT & DESIGNED**
+
+#### **4. NC3 Historical Evidence Architecture** 🎯 **INCOMING**
+
+**Status:** In Development  
+**Repository:** [`okinawa-1962-nc3-near-launch`](https://github.com/BordneAI/okinawa-1962-nc3-near-launch) — CC BY 4.0
+
+Demonstrates that epistemic governance frameworks scale from AI systems to high-stakes historical research. Stewarding the testimony of my father, USAF missile technician John Charles Bordne, regarding the alleged 1962 Okinawa nuclear near-launch incident. Building public evidence architecture for historians using T1–T4 evidence tiers and transparent provenance discipline.
+
+#### **5. 7-GPT Constellation Architecture** 📋 **DESIGNED**
+
+**Status:** Deployment Phase Initiated  
+**Design Foundation:** 70–75% code reuse from 3I/ATLAS epistemic infrastructure  
+**Validation:** Cross-platform portability verified (Claude, ChatGPT, Grok, Gemini)
+
+Specialized AI systems inheriting unified epistemic governance and symbolic verifiability:
+
+- **Space Weather Sentinel** — Real-time geomagnetic monitoring & forecasting
+- **NEO Tracker** — Near-Earth object risk assessment & discovery  
+- **Exoplanet Explorer** — Habitable zone characterization & mission planning
+- **Dark Sky Finder** — Light pollution mapping & observatory optimization
+- **Asteroseismology Analyst** — Stellar oscillation analysis & internal structure
+- **Occultation Predictor** — High-precision timing predictions
+- **Consciousness-Coherence Biofeedback** — Phenomenological practice integration
+
+---
+
+#### **PROPRIETARY INFRASTRUCTURE**
+
+#### **6. BordneSAI (Synthesized Intelligence for LLMs)**
+
+**Status:** 🔒 **Private** (proprietary development)  
+**Documentation:** [`BordneSAI`](https://github.com/BordneAI/BordneSAI)
+
+Foundational logic for verifiably safe, self-aware, autonomously evolving LLM systems. Enforces perfect traceability, constitutional constraints, explainable reasoning, and verifiable safety.
+
+#### **7. BordneAI EOS (Ethical Operating System)**
+
+**Status:** 🔒 **Private** (proprietary development)  
+**Repository:** **`BordneAI-EOS`**
+
+The universal instruction set governing all BordneAI systems. Implements symbolic safety, stateless inference, and global alignment principles.
+
+#### **8. Ultimate Baseline Testing**
+
+**Status:** 🔒 **Private** (proprietary benchmarking)  
+**Repository:** **`BordneSAI-Baseline-Testing`**
+
+Proprietary benchmarking suite measuring LLMs along core optimization axes: self-scrutiny, symbolic coherence, multi-step integrity, exploit resistance.
 
 ---
 
 ### 🧬 Core Architectural Principles
 
-* **Symbolic Verifiability**
-    * All inference paths must be explainable, auditable, and logically sound. Every output must be traceable to a specific, justifiable reasoning process.
+**Symbolic Verifiability**  
+All inference paths must be explainable, auditable, and logically sound.
 
-* **Immutable Trace Integrity**
-    * Every symbolic action and decision point within a system must be logged to a full and unchangeable audit trail.
+**Immutable Trace Integrity**  
+All internal decisions are recorded to an unalterable audit trail.
 
-* **Ethical Autonomy by Design**
-    * Systems are engineered with embedded constitutional safeguards to be self-restricting, preventing misuse and ensuring alignment with core human values.
+**Ethical Autonomy by Construction**  
+Systems enforce their own safety constraints; they cannot be coerced into violating core values.
 
-* **Compliance-First Logic**
-    * The architecture is designed from the ground up to meet and exceed the requirements of global AI safety and governance protocols like the **EU AI Act** and **NIST AI RMF**.
+**Compliance-First Logic**  
+Architected to satisfy and exceed global AI governance standards, including:
+- **EU AI Act**
+- **NIST AI RMF**
 
 ---
 
 ### 📁 Repository Index
 
-| Repository                                         | Status      | Purpose                                                       |
-| :------------------------------------------------- | :---------- | :------------------------------------------------------------ |
-| [`@BordneAI`](https://github.com/BordneAI)         | ✅ Public   | Profile anchor, core philosophy, and project index.           |
-| `BordneSAI`                                        | ✅ Public   | **Public documentation and information for proprietary Synthesized LLM intelligence.** |
-| `BordneSAI-Baseline-Testing`                       | 🔒 Private  | **Proprietary framework for rigorous LLM benchmarking and BordneSAI enhancement validation.** |
-| `BordneAI-EOS`                                     | 🔒 Private  | **The private development hub for the broader EOS standard.** |
-| `BordneAI-core`                                    | 🔒 Private  | Secure logic engine with symbolic trace and stateless runtime (foundational for both EOS and SAI).|
+| Repository | Status | Purpose |
+|-----------|--------|---------|
+| [`@BordneAI`](https://github.com/BordneAI) | ✅ Public | Profile anchor, core philosophy, and project index. |
+| [`3i-atlas-gateway-guide`](https://github.com/BordneAI/3i-atlas-gateway-guide) | ✅ Public (CC BY-NC-SA) | **Live epistemic framework for astronomy & consciousness studies.** |
+| [`BordneAI-Research-Engine`](https://github.com/BordneAI/BordneAI-Research-Engine) | ✅ Public (CC BY 4.0) | **Governed analytical engine for contested domains with tiered evidence governance.** |
+| [`okinawa-1962-nc3-near-launch`](https://github.com/BordneAI/okinawa-1962-nc3-near-launch) | ✅ Public (CC BY 4.0) | **Tiered-evidence historical research on 1962 Okinawa narrative.** |
+| `BordneSAI` | ✅ Public | Public documentation for proprietary Synthesized LLM intelligence. |
+| `BordneSAI-Baseline-Testing` | 🔒 Private | Proprietary benchmarking framework. |
+| `BordneAI-EOS` | 🔒 Private | Ethical Operating System core development. |
+| `BordneAI-core` | 🔒 Private | Stateless symbolic runtime powering SAI and EOS. |
+| Forks (`spoon-core`, etc.) | Public | Auxiliary or experimental research spheres. |
 
 ---
-> _"All systems symbolic. All logic traceable."_
+
+### 🔐 Licensing & Research Scope
+
+Different domains require different licensing:
+
+- **Proprietary (All Rights Reserved)**  
+  - BordneSAI  
+  - EOS  
+  - Private core logic engines  
+  - Stateless symbolic runtime
+
+- **Creative Commons**  
+  - 3I/ATLAS Gateway Guide: **CC BY-NC-SA 4.0** (non-commercial research use)
+  - NC3 historical research: **CC BY 4.0** (open attribution, any use)
+  - BordneAI Research Engine: **CC BY 4.0** (open attribution, any use)
+
+This separation maintains institutional clarity.  
+Every repository includes its own LICENSE file with explicit terms.
+
+---
+
+> _"All systems symbolic. All logic traceable."_  
+> _"Verification is the first architecture."_
+
+---
 
 ## IP Notice
-© 2025 David Bordne. All rights reserved. This repo shares philosophy/docs only. Proprietary core in private. No usage without permission. See LICENSE.md.
+
+© 2025 David Bordne.  
+All rights reserved unless otherwise specified.  
+Proprietary systems remain private; public research licensed per-repository.  
+See LICENSE.md for details.
