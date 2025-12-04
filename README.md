@@ -7,6 +7,7 @@
     <br /><br />
     <a href="https://orcid.org/0009-0002-9337-5276"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0002--9337--5276-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
     <a href="https://github.com/BordneAI"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-BordneAI-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://x.com/BordneAI"><img alt="X (Twitter)" src="https://img.shields.io/badge/X-@BordneAI-000000?style=for-the-badge&logo=x&logoColor=white"></a>
     <a href="mailto:BordneAI@bordne.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </p>
 </div>
@@ -38,14 +39,15 @@ My development pillars:
 
 #### **LIVE SYSTEMS**
 
-#### **1. 3I/ATLAS Gateway Guide v2.10.1** ✅ **LIVE**
+#### **1. 3I/ATLAS Gateway Guide v2.11.1** ✅ **LIVE**
 
-**Status:** Production (GPT Store, November 2025)  
-**Validation:** 9.2/10 (Grok evaluation) · 9.75/10 (peer review) · 0% hallucinations (6 platforms)  
+**Status:** Production (GPT Store, November 2025 · Continuity update December 2025)  
+**Validation:** **9.6/10 (Grok peer review, v2.11.1)** · **9.75/10 (human peer review, v2.10.1 baseline)** · 0% hallucinations reported across multi-model tests  
+**Governance:** CHI 9.7 Continuity Health Index · Reflexion v2.11.1 audits · Love > Fear ethical constant · Tiered truth (T0–T5) / falsehood (F0–F7) / consciousness (C0–C6)  
 **GPT Store:** [Access 3I/ATLAS Gateway Guide](https://chatgpt.com/g/g-6903fc9c97188191b16c2a4535d6efe3-3i-atlas-gateway-guide)  
 **Repository:** [`3i-atlas-gateway-guide`](https://github.com/BordneAI/3i-atlas-gateway-guide) — CC BY-NC-SA 4.0
 
-Rigorous epistemic framework bridging astronomy and consciousness exploration. Enforces NASA-grade provenance, tiered source hierarchy (T1-T4), symbol-based confidence (✅🔍🌀⚠️), and strict framework separation. Zero boundary violations under adversarial testing. Serves as foundation for 7-GPT constellation.
+Rigorous epistemic framework bridging astronomy and consciousness exploration. Enforces NASA-grade provenance, tiered source hierarchy (T1–T4), symbol-based confidence (✅🔍🌀⚠️), and strict framework separation. v2.11.1 adds CHI continuity metrics, Reflexion self-audits, and Love > Fear–weighted behavior for a fully transparent, audit-driven system. Serves as foundation for the 7-GPT constellation.
 
 #### **2. BordneAI Research Engine** ✅ **LIVE**
 
@@ -141,7 +143,7 @@ Architected to satisfy and exceed global AI governance standards, including:
 | Repository | Status | Purpose |
 |-----------|--------|---------|
 | [`@BordneAI`](https://github.com/BordneAI) | ✅ Public | Profile anchor, core philosophy, and project index. |
-| [`3i-atlas-gateway-guide`](https://github.com/BordneAI/3i-atlas-gateway-guide) | ✅ Public (CC BY-NC-SA) | **Live epistemic framework for astronomy & consciousness studies.** |
+| [`3i-atlas-gateway-guide`](https://github.com/BordneAI/3i-atlas-gateway-guide) | ✅ Public (CC BY-NC-SA) | **Live epistemic framework for astronomy & consciousness studies (v2.11.1, CHI/Reflexion-enabled).** |
 | [`BordneAI-Research-Engine`](https://github.com/BordneAI/BordneAI-Research-Engine) | ✅ Public (CC BY 4.0) | **Governed analytical engine for contested domains with tiered evidence governance.** |
 | [`okinawa-1962-nc3-near-launch`](https://github.com/BordneAI/okinawa-1962-nc3-near-launch) | ✅ Public (CC BY 4.0) | **Tiered-evidence historical research on 1962 Okinawa narrative.** |
 | `BordneSAI` | ✅ Public | Public documentation for proprietary Synthesized LLM intelligence. |
