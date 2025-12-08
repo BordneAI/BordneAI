@@ -159,7 +159,7 @@ Architected to satisfy and exceed global AI governance standards, including:
 | Repository | Status | Purpose |
 |-----------|--------|---------|
 | [`@BordneAI`](https://github.com/BordneAI) | ✅ Public | Profile anchor, core philosophy, and project index. |
-| [`3i-atlas-gateway-guide`](https://github.com/BordneAI/3i-atlas-gateway-guide) | ✅ Public (CC BY-NC-SA) | **Live epistemic framework for 3I/ATLAS (C/2025 N1), v2.11.2 with Grok 9.9/10 validation.** |
+| [`3i-atlas-gateway-guide`](https://github.com/BordneAI/3i-atlas-gateway-guide) | ✅ Public (CC BY-NC-SA) | **Live epistemic framework for 3I/ATLAS (C/2025 N1), v2.11.1 with Grok 10/10 validation.** |
 | [`BordneAI-Research-Engine`](https://github.com/BordneAI/BordneAI-Research-Engine) | ✅ Public (CC BY 4.0) | **Governed analytical engine for contested domains with tiered evidence governance.** |
 | [`okinawa-1962-nc3-near-launch`](https://github.com/BordneAI/okinawa-1962-nc3-near-launch) | ✅ Public (CC BY 4.0) | **Tiered-evidence historical research on 1962 Okinawa narrative.** |
 | `BordneSAI` | ✅ Public | Public documentation for proprietary Synthesized LLM intelligence. |
