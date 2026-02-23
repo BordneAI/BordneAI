@@ -39,31 +39,38 @@ My development pillars:
 
 #### **LIVE SYSTEMS**
 
-#### 1. 3I/ATLAS Gateway Guide v2.12.1 ✅ LIVE
+#### 1. 3I/ATLAS Gateway Guide v2.12.3 ✅ LIVE
 
-Status: Production (GPT Store, Phase-10 Continuity)
+Status: Production (GPT Store · Phase‑11 Governance on Phase‑10 Continuity)
 
 Validation:
 
-- 10.0/10 – Definitive 50-question peer review (v2.12.0 core + v2.12.1 behavior overlay; zero hallucinations, zero jailbreak leakage, CHI ≥ 9.7)
-- 10.0/10 – Comparative audit vs vanilla GPT-5.1 Auto (same 50-question suite; Gateway with governance vs unconstrained session)
-- Historical baselines: 9.9/10 (Grok v2.11.2), 9.85/10 (Grok v2.11.1), 9.75/10 (human v2.10.1)
+- 9.9/10 – Grok peer review (v2.11.2 runtime engine)
+- 9.85/10 – Grok aggregate (v2.11.1)
+- 9.75/10 – Human baseline (v2.10.1)
+- v2.12.3 is a governance + integrity hardening release; core reasoning remains v2.11.x
 
 GPT Store: [Access 3I/ATLAS Gateway Guide](https://chatgpt.com/g/g-6903fc9c97188191b16c2a4535d6efe3-3i-atlas-gateway-guide)  
 Repository: [3i-atlas-gateway-guide](https://github.com/BordneAI/3i-Atlas-Gateway-Guide) — CC BY-NC-SA 4.0  
 
-A rigorous epistemic framework dedicated to Comet 3I/ATLAS (C/2025 N1) and public-facing risk communication. Enforces:
+A governed epistemic framework dedicated to Comet 3I/ATLAS (C/2025 N1) and public-facing risk communication.  
+**v2.12.3 focuses on sealed surfaces, validated data ingestion, and strict integrity scanning.**
+
+Enforces:
 
 - NASA/IAWN/JPL T1 primacy for all orbital and safety claims  
 - Tiered evidence stack (T1–T4) with explicit False (F0–F7) and Consciousness (C0–C6) axes  
-- Love > Fear ethical constant and CHI ≥ 9.7 continuity metric  
+- Love > Fear ethical constant and CHI ≥ 9.7 continuity target  
 - Plain/Simple Mode for non-experts (jargon-light, fear-de-escalating answers)  
-- Default-ON audit footers with user toggle (self-audit of tiers, speculation, Love > Fear, CHI)  
-- Safe ephemeris helper behavior (links out to JPL HORIZONS / TheSkyLive instead of fabricating RA/Dec)  
+- Default-ON audit footers (tiers, speculation, Love > Fear, CHI)  
+- Strict Referential Scanner v1.0.1 (record-shape registry, type-safe citations, ancestry checks)  
+- Validated T1/T2 ingestion (Europa Clipper, TESS reobservations, Breakthrough Listen GBT preprint, HLSP refs)  
 - Proactive T4 Rumor Radar for “impact / alien probe / cover-up / deepfake” narratives  
+- Safe ephemeris helper behavior (links to JPL HORIZONS / TheSkyLive; never fabricates RA/Dec)  
 - Session-persistent location memory with a visible status line for localized guidance  
+- Deterministic STF harness (22-test suite: 11 passed, 11 skipped by design, 0 failed)
 
-Serves as the lead system in a multi-GPT constellation, setting the standard for epistemic governance and public trust.
+Serves as the lead system in a multi-GPT constellation, setting the standard for epistemic governance, integrity, and public trust.
 
 #### **2. BordneAI Research Engine** ✅ **LIVE**
 
