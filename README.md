@@ -4,13 +4,15 @@
   <h1>David Bordne</h1>
   <p><strong>AI Systems Architect · Infrastructure Engineer · Evidence-Governed AI Builder</strong></p>
   <p><em>Engineering human-governed Assisted Intelligence systems with explicit authority, provenance, and verification boundaries.</em></p>
-  <p>
-    <a href="https://orcid.org/0009-0002-9337-5276">ORCID</a> ·
-    <a href="https://github.com/BordneAI">GitHub</a> ·
-    <a href="https://x.com/BordneAI">X</a> ·
-    <a href="mailto:BordneAI@bordne.com">Contact</a>
+  <p align="center">
+    <a href="https://orcid.org/0009-0002-9337-5276"><img alt="ORCID — 0009-0002-9337-5276" src="https://img.shields.io/badge/ORCID-0009--0002--9337--5276-A6CE39?style=for-the-badge&amp;logo=orcid&amp;logoColor=white"></a>
+    <a href="https://github.com/BordneAI"><img alt="GitHub — BordneAI" src="https://img.shields.io/badge/GitHub-BordneAI-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
+    <a href="https://x.com/BordneAI"><img alt="X — @BordneAI" src="https://img.shields.io/badge/X-%40BordneAI-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white"></a>
+    <a href="mailto:BordneAI@bordne.com"><img alt="Email — Contact" src="https://img.shields.io/badge/Email-Contact_Me-245A78?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
   </p>
 </div>
+
+<p align="center"><strong>◈ HUMAN GOVERNED &nbsp; · &nbsp; ⬡ LOCAL FIRST &nbsp; · &nbsp; ◇ EVIDENCE DRIVEN</strong></p>
 
 ---
 
@@ -24,6 +26,9 @@ I use **Assisted Intelligence** to describe modern AI as an evolved computationa
 
 > **Capability ≠ authority.** Human intent sets the objective; governed systems manage bounded complexity.
 
+
+---
+
 ## ⬡ 02 / Engineering Domains
 
 | Domain | Engineering focus |
@@ -34,6 +39,9 @@ I use **Assisted Intelligence** to describe modern AI as an evolved computationa
 | **◇ Evidence systems** | Reproducible validation, source integrity, negative-null discipline, and explicit uncertainty |
 | **⚙ Applied engineering** | Infrastructure operations, technical research, diagnostics, and carefully bounded automation |
 
+
+---
+
 ## ✦ 03 / Selected Engineering Outcomes
 
 These are **implemented mechanisms or tested contracts**, not blanket claims of production deployment, current host readiness, or behavioral acceptance across every client.
@@ -42,6 +50,9 @@ These are **implemented mechanisms or tested contracts**, not blanket claims of 
 - **Provider-neutral continuity** — developed provenance-aware continuation and recovery contracts that preserve work identity and delegated authority across supported workflows.
 - **Portable Skill governance** — built package and target-projection mechanisms with provider-specific validation; host materialization, client discovery, and invocability require independent checks.
 - **Reproducible evidence workflows** — implemented validation and health-check tooling that distinguishes operational gaps from scientific null results while preserving audit evidence.
+
+
+---
 
 ## ◇ 04 / Verification Discipline
 
@@ -59,6 +70,9 @@ Each stage has a different evidence requirement. A repository commit or passing 
 
 No row above should be interpreted as a live-status claim for every BordneAI component.
 
+
+---
+
 ## ⚖ 05 / Operating Principles
 
 | Principle | Commitment |
@@ -70,6 +84,9 @@ No row above should be interpreted as a live-status claim for every BordneAI com
 | **Local-first where appropriate** | Maintain established execution ownership and narrowly scoped permissions |
 | **Evidence before claims** | Distinguish configured, installed, running, validated, and accepted states |
 | **Safety and reversibility** | Require bounded changes, attributable execution, and human review of consequential actions |
+
+
+---
 
 ## 🔐 06 / Privacy and Transparency
 
