@@ -1,3 +1,5 @@
+![Header](assets/bordneai-profile-header.svg)
+
 <div align="center">
   <h1>David Bordne</h1>
   <p><strong>AI Systems Architect · Infrastructure Engineer · Evidence-Governed AI Builder</strong></p>
