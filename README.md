@@ -42,10 +42,10 @@ The core of BordneAI is a simple yet powerful workflow: **Human intent → compu
 
 ## Selected Engineering Outcomes
 
-- **Persistent supervision** – continuous monitoring and governance of AI systems across all runtimes.
-- **Continuity** – stateful, provenance‑tracked execution that survives restarts and migrations.
-- **Skill portability** – reusable AI capabilities that can be deployed on any provider or local runtime without loss of control.
-- **Evidence tooling** – automated collection, storage, and audit trails for all decision‑making evidence.
+- **Persistent supervision** – continuous monitoring and governance via implemented supervisor mechanisms.
+- **Continuity** – stateful, provenance‑tracked execution with demonstrated recovery contracts.
+- **Skill portability** – reusable AI capabilities validated for target-specific providers and local runtimes.
+- **Evidence tooling** – automated collection, storage, and audit trails within supported evaluation workflows.
 
 ## Repository Posture
 
