@@ -1,9 +1,9 @@
-![Header](assets/bordneai-profile-header.svg)
+![BordneAI architectural header](assets/bordneai-profile-header.svg)
 
 <div align="center">
   <h1>David Bordne</h1>
-  <p><strong>AI Systems Architect · Infrastructure Engineer · Evidence‑Governed AI Builder</strong></p>
-  <p><em>Building practical human‑governed AI systems with explicit authority, provenance, and verification boundaries.</em></p>
+  <p><strong>AI Systems Architect · Infrastructure Engineer · Evidence-Governed AI Builder</strong></p>
+  <p><em>Engineering human-governed Assisted Intelligence systems with explicit authority, provenance, and verification boundaries.</em></p>
   <p>
     <a href="https://orcid.org/0009-0002-9337-5276">ORCID</a> ·
     <a href="https://github.com/BordneAI">GitHub</a> ·
@@ -14,46 +14,74 @@
 
 ---
 
-## About
+## ◈ 01 / Assisted Intelligence
 
-I am David Bordne, creator and architect of **BordneAI**, a private AI engineering and research program focused on governed human‑AI collaboration. My background spans enterprise infrastructure, local AI systems, automation, evidence‑driven research, and the design of provider‑neutral AI workflows.
+**Human intent → computational assistance → verified outcomes.**
 
-## Work Focus
+I am David Bordne, creator and architect of **BordneAI**, a private AI engineering and research program focused on governed human–AI collaboration. My work draws on enterprise infrastructure, local AI systems, automation, and evidence-based technical research.
 
-My current work concentrates on several connected areas:
+I use **Assisted Intelligence** to describe modern AI as an evolved computational instrument: capable of extending human reasoning and execution, but not a source of independent decision authority. Consequential actions remain subject to explicit human governance, and implementation claims require observable evidence.
 
-- **AI governance and continuity** – durable state, provenance, authority boundaries, human‑in‑the‑loop gates, and cross‑provider routing.
-- **Local and hybrid AI infrastructure** – governed use of local models, provider adapters, private runtimes, and existing platform capabilities.
-- **Evaluation and evidence systems** – reproducible evaluation contracts, source integrity, negative‑null handling, and clear separation of facts, interpretations, unknowns, and recommendations.
-- **Applied AI engineering** – using AI systems for infrastructure operations, technical research, diagnostics, historical evidence work, and other bounded domains.
-- **Capability‑fabric design** – preferring existing platforms, subscriptions, first‑party capabilities, established open source, and owned infrastructure before custom construction.
+> **Capability ≠ authority.** Human intent sets the objective; governed systems manage bounded complexity.
 
-## Operating Principles
+## ⬡ 02 / Engineering Domains
 
-- **Verification before capability claims** – a passing demo, installed package, available tool, configured model, and verified execution are different states. I keep those distinctions explicit.
-- **Capability does not equal authority** – a system may be technically capable of an action without being authorized to perform it. Human governance remains the final control boundary for consequential operations.
-- **Provider‑neutral by design** – work should continue across suitable AI and infrastructure surfaces without treating any single provider or session as the identity or authority of the system.
-- **Evidence‑aware uncertainty** – `UNKNOWN`, unavailable evidence, not‑found results, stale evidence, and verified absence are not interchangeable. Negative results are preserved without being promoted into unsupported conclusions.
-- **Safety and reversibility** – changes should be bounded, reviewable, attributable, and reversible. Runtime activation, deployment, credential expansion, and policy changes require explicit human review.
+| Domain | Engineering focus |
+| :-- | :-- |
+| **◈ AI governance and continuity** | Durable work identity, provenance, authority boundaries, human approval gates, and cross-provider routing |
+| **⬡ Local and hybrid AI** | Local-model orchestration, bounded execution, supervisor mechanisms, and infrastructure integration |
+| **✦ Capability fabric** | Reuse-first platform selection, portable Skills, adapters, and target-specific compatibility |
+| **◇ Evidence systems** | Reproducible validation, source integrity, negative-null discipline, and explicit uncertainty |
+| **⚙ Applied engineering** | Infrastructure operations, technical research, diagnostics, and carefully bounded automation |
 
-## Assisted Intelligence
+## ✦ 03 / Selected Engineering Outcomes
 
-The core of BordneAI is a simple yet powerful workflow: **Human intent → computational assistance → verified outcomes**. All operations are mediated by explicit authority gates that enforce evidence‑based verification before any consequential action can proceed.
+These are **implemented mechanisms or tested contracts**, not blanket claims of production deployment, current host readiness, or behavioral acceptance across every client.
 
-## Selected Engineering Outcomes
+- **Governed runtime supervision** — implemented persistent supervisor mechanisms and bounded execution controls; service installation and live readiness are separately verified.
+- **Provider-neutral continuity** — developed provenance-aware continuation and recovery contracts that preserve work identity and delegated authority across supported workflows.
+- **Portable Skill governance** — built package and target-projection mechanisms with provider-specific validation; host materialization, client discovery, and invocability require independent checks.
+- **Reproducible evidence workflows** — implemented validation and health-check tooling that distinguishes operational gaps from scientific null results while preserving audit evidence.
 
-- **Persistent supervision** – continuous monitoring of key metrics and governance through implemented supervisor mechanisms.
-- **Continuity** – stateful, provenance‑tracked execution with demonstrably tested recovery contracts.
-- **Skill portability** – reusable AI capabilities validated for target-specific providers and local runtimes.
-- **Evidence tooling** – automated collection, storage, and audit trails within supported evaluation workflows.
+## ◇ 04 / Verification Discipline
 
-## Repository Posture
+**Designed → Implemented → Validated → Deployed → Behaviorally accepted**
 
-This profile repository is the public overview surface. BordneAI implementation, evaluation, runtime, governance, and research repositories are private and are intentionally not enumerated here. Their current status belongs to their own canonical evidence and governance surfaces rather than to a static public inventory.
+Each stage has a different evidence requirement. A repository commit or passing check establishes neither current runtime deployment nor successful user-facing behavior by itself.
+
+| Evidence state | What it establishes |
+| :-- | :-- |
+| **Designed** | A stated requirement, architecture, or protocol |
+| **Implemented** | A concrete source or configuration change |
+| **Validated** | Recorded tests or checks against defined acceptance criteria |
+| **Deployed** | A verified host or service installation |
+| **Behaviorally accepted** | Observed operation on the intended client and workflow |
+
+No row above should be interpreted as a live-status claim for every BordneAI component.
+
+## ⚖ 05 / Operating Principles
+
+| Principle | Commitment |
+| :-- | :-- |
+| **Capability ≠ authority** | Human decision authority governs consequential operations |
+| **UNKNOWN ≠ absent** | Unavailable, stale, missing, and negative evidence remain distinct |
+| **Reuse before build** | Prefer existing capable tools and platforms over unnecessary duplication |
+| **Provider-neutral by design** | Preserve work identity across suitable clients without granting a provider governing authority |
+| **Local-first where appropriate** | Maintain established execution ownership and narrowly scoped permissions |
+| **Evidence before claims** | Distinguish configured, installed, running, validated, and accepted states |
+| **Safety and reversibility** | Require bounded changes, attributable execution, and human review of consequential actions |
+
+## 🔐 06 / Privacy and Transparency
+
+This repository is the **public profile overview**, not an inventory of private implementation, runtime, governance, evaluation, and research repositories. Operational state and readiness claims belong to their own canonical evidence surfaces.
+
+BordneAI is not presented here as AGI, machine consciousness, or an autonomous governing authority. Architectural concepts and research hypotheses are not claims of demonstrated experience or unrestricted autonomy.
+
+Public content intentionally excludes private topology, credentials, internal repository inventories, and sensitive operational data.
 
 ---
 
-> **Verification is the first architecture.**
-
-© David Bordne. All rights reserved unless a specific published work states otherwise.
-<EOF>
+<div align="center">
+  <strong>✦ Verification is the first architecture.</strong>
+  <p>© David Bordne. All rights reserved unless a specific published work states otherwise.</p>
+</div>
