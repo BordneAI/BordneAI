@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>David Bordne</h1>
-  <p><strong>AI Systems Arc  <p><strong>AI Systems Architect · Evidence-Governed AI Builder</strong></p>Architect · Infrastructure Engineer · Evidence-Governed AI Builder</strong></p>
+    <p><strong>AI Systems Architect · Evidence-Governed AI Builder</strong></p>
   <p><em>Engineering human-governed Assisted Intelligence systems with explicit authority, provenance, and verification boundaries.</em></p>
   <p align="center">
     <a href="https://orcid.org/0009-0002-9337-5276"><img alt="ORCID — 0009-0002-9337-5276" src="https://img.shields.io/badge/ORCID-0009--0002--9337--5276-A6CE39?style=for-the-badge&amp;logo=orcid&amp;logoColor=white"></a>
