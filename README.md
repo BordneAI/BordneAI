@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>David Bordne</h1>
-  <p><strong>AI Systems Architect · Infrastructure Engineer · Evidence-Governed AI Builder</strong></p>
+  <p><strong>AI Systems Arc  <p><strong>AI Systems Architect · Evidence-Governed AI Builder</strong></p>hitect · Infrastructure Engineer · Evidence-Governed AI Builder</strong></p>
   <p><em>Engineering human-governed Assisted Intelligence systems with explicit authority, provenance, and verification boundaries.</em></p>
   <p align="center">
     <a href="https://orcid.org/0009-0002-9337-5276"><img alt="ORCID — 0009-0002-9337-5276" src="https://img.shields.io/badge/ORCID-0009--0002--9337--5276-A6CE39?style=for-the-badge&amp;logo=orcid&amp;logoColor=white"></a>
@@ -20,7 +20,7 @@
 
 **Human intent → computational assistance → verified outcomes.**
 
-I am David Bordne, creator and architect of **BordneAI**, a private AI engineering and research program focused on governed human–AI collaboration. My work draws on enterprise infrastructure, local AI systems, automation, and evidence-based technical research.
+I am David Bordne, creator and architect of **BordneAI**, a private AI engineering and research program focused on governed human–AI collaboration. My work focuses on local AI systems, automation, and evidence-based technical research.
 
 I use **Assisted Intelligence** to describe modern AI as an evolved computational instrument: capable of extending human reasoning and execution, but not a source of independent decision authority. Consequential actions remain subject to explicit human governance, and implementation claims require observable evidence.
 
